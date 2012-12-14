@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="RailsFacetType" name="Ruby on Rails">
+      <configuration>
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="GemRequirementsHolder" version="3">
+    <requirement>
+      <requirement>
+        <dependency name="rails" version="3.2.9" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="rspec-rails" version="2.6.1" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="sqlite3" version="0" bound="GREATER_OR_EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+    <requirement>
+      <requirement>
+        <dependency name="webrat" version="0.7.1" bound="EQUAL" git="false" path="false" doRequire="true" />
+      </requirement>
+      <source from="Gemfile" />
+    </requirement>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/tmp" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] tilt (v1.3.3, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/tilt-1.3.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] bundler (v1.2.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327@global/gems/bundler-1.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activemodel (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/activemodel-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-cache (v1.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rack-cache-1.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] hike (v1.2.1, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/hike-1.2.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] i18n (v0.6.1, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/i18n-0.6.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rake (v10.0.3, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rake-10.0.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] polyglot (v0.3.3, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/polyglot-0.3.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sprockets (v2.2.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/sprockets-2.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-ssl (v1.3.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rack-ssl-1.3.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] railties (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/railties-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rails (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rails-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionpack (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/actionpack-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] json (v1.7.5, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/json-1.7.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] journey (v1.0.4, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/journey-1.0.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] treetop (v1.4.12, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/treetop-1.4.12)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] multi_json (v1.5.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/multi_json-1.5.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activesupport (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/activesupport-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] actionmailer (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/actionmailer-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activerecord (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/activerecord-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] erubis (v2.7.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/erubis-2.7.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] builder (v3.0.4, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/builder-3.0.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mail (v2.4.4, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/mail-2.4.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] mime-types (v1.19, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/mime-types-1.19)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] tzinfo (v0.3.35, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/tzinfo-0.3.35)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] arel (v3.0.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/arel-3.0.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rdoc (v3.12, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rdoc-3.12)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] thor (v0.16.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/thor-0.16.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] activeresource (v3.2.9, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/activeresource-3.2.9)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack-test (v0.6.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rack-test-0.6.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] rack (v1.4.1, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/rack-1.4.1)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] jquery-rails (v2.1.4, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/jquery-rails-2.1.4)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-rails (v3.2.2, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/coffee-rails-3.2.2)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sass-rails (v3.2.5, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/sass-rails-3.2.5)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] uglifier (v1.3.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/uglifier-1.3.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sqlite3 (v1.3.6, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/sqlite3-1.3.6)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script-source (v1.4.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/coffee-script-source-1.4.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script (v2.2.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/coffee-script-2.2.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sass (v3.2.3, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/sass-3.2.3)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] execjs (v1.4.0, /Users/antonborzenko/.rvm/gems/ruby-1.9.3-p327/gems/execjs-1.4.0)" level="application" />
+  </component>
+</module>
+
