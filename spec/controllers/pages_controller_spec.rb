@@ -4,12 +4,12 @@ describe PagesController do
   render_views
 
   before(:each) do
-    @basic_title = "ROR"
-  end
+    @basic_title = "ROR" 
+  end 
 
-  describe "GET 'home'" do
+  describe "GET 'home'" do 
     it "should be successful" do
-      get 'home'
+      get 'home' 
       response.should be_success
     end
     it "should have the right title" do
