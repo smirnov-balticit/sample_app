@@ -7,6 +7,7 @@ gem 'rails', '3.2.9'
 
 gem 'sqlite3'
 gem 'jquery-rails'
+gem 'gravatar_image_tag'
 
 group :development do
   gem 'rspec-rails'
@@ -17,4 +18,5 @@ group :test do
   gem 'rspec-rails'
   gem 'webrat'
   gem 'spork'
+	gem 'factory_girl_rails', '1.0'  
 end
