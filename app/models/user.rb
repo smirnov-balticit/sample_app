@@ -8,10 +8,10 @@
 #  created_at :datetime         not null
 #  updated_at :datetime         not null
 #
-
-
+  
+ 
 class User < ActiveRecord::Base
-	attr_accessor :password 
+	attr_accessor :password  
  	attr_accessible :name, :email, :password, :password_confirmation
 
 	email_regex = /\A[\w+\-.]+@[a-z\d\-.]+\.[a-z]+\z/i	 
