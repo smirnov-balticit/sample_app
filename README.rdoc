@@ -1,3 +1,16 @@
-== Ruby on Rails Tutorial: пример приложения
+== Проблема с гемом Faker
 
-Создаем приложение по туториалу.
+Пытаюсь сделать тестовых юзеров, но при написании комманды "bundle exec rake db:populate" вылетает странная ошибка:
+
+rake aborted!
+/Users/antonborzenko/job/lib/tasks/sample_data.rake:1: syntax error, unexpected tIDENTIFIER, expecting keyword_end
+  task :populate => :environment do...
+.
+.
+.
+.
+.
+
+Гугление не помогло.
+
+В чем может быть проблема?
